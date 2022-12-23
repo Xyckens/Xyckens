@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![fvieira's 42 stats](https://badge42.vercel.app/api/v2/clc0k1dka00060fmdj743ugtz/stats?cursusId=21&coalitionId=236)
 <!--
 **Xyckens/Xyckens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
