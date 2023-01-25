@@ -1,13 +1,6 @@
 
 [![fvieira's 42 stats](https://badge42.vercel.app/api/v2/clc0k1dka00060fmdj743ugtz/stats?cursusId=21&coalitionId=293)](https://github.com/JaeSeoKim/badge42)
 
-<div>  
-<h2>
-  
-  [Minitalk Grade :](https://github.com/Xyckens/minitalk) [![fvieira's 42 minitalk Score](https://badge42.vercel.app/api/v2/clc0k1dka00060fmdj743ugtz/project/2909702)](https://github.com/JaeSeoKim/badge42)
-  
-</h2> 
-</div>
 
  <div>
  <h2>
@@ -16,6 +9,23 @@
   
   </h2>  
 </div>
+
+<div>  
+<h2>
+  
+  [Minitalk Grade :](https://github.com/Xyckens/minitalk) [![fvieira's 42 minitalk Score](https://badge42.vercel.app/api/v2/clc0k1dka00060fmdj743ugtz/project/2909702)](https://github.com/JaeSeoKim/badge42)
+  
+</h2> 
+</div>
+
+<div>
+ <h2>
+   
+[<strong>Push_Swap Grade :</strong>](https://github.com/Xyckens/push_swap) [![fvieira's 42 push_swap Score](https://badge42.vercel.app/api/v2/clc0k1dka00060fmdj743ugtz/project/2914306)](https://github.com/JaeSeoKim/badge42) <br>
+  
+  </h2>  
+</div>
+
 <div>
 <h2>
     
