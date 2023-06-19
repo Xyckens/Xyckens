@@ -3,7 +3,7 @@ I am a passionate individual with a strong background in physics and programming
 Since then, I embarked on a self-directed journey at home, learning  various programming languages and undertaking personal projects to expand my knowledge and practical experience.<br><br>
 Now I find myself at 42 Porto solving real-world challenges, and collaborating with fellow aspiring developers.
 <p align="center">
- <a href='(https://www.linkedin.com/in/fmotavieira/)' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+ <a href='https://www.linkedin.com/in/fmotavieira/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
   </a>
    <a href='https://profile.intra.42.fr/users/fvieira' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
   </a>
