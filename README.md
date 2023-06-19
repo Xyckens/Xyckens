@@ -11,6 +11,8 @@ Now I find myself at 42 Porto solving real-world challenges, and collaborating w
 
 ## 42 School Projects
 
+<div align="center">
+ 
 <a href="https://github.com/Xyckens/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
 <a href="https://github.com/Xyckens/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
 <a href="https://github.com/Xyckens/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
@@ -24,7 +26,13 @@ Now I find myself at 42 Porto solving real-world challenges, and collaborating w
 <a href="https://github.com/Xyckens/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptionn.png)</a>
 ![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minirtn.png)</a>
 
+</div>
+
 ## Github Stats
+
+<div align="center">
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xyckens&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xyckens&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
+</div>
